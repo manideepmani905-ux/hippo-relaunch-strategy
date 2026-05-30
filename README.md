@@ -100,7 +100,7 @@ This line does three things simultaneously:
 
 **Placement:** Indian metro cities — Mumbai highways, Delhi bus shelters, Bangalore mall exteriors, kirana street hoardings.
 
-![Billboard Mockup](./visuals/billboard.png)
+![Billboard Mockup](./visuals/billboard.png.jpeg)
 
 ---
 
@@ -118,7 +118,7 @@ This line does three things simultaneously:
 ### 6.3 Packaging
 Same original design language — solid color per flavor, bold black hippo silhouette, heavy white typography. Each pack includes a **QR code** on the back.
 
-![Consumer Packaging](./visuals/packaging_lineup.png)
+![Consumer Packaging](./visuals/packaging_lineup.png.jpeg)
 
 ---
 
@@ -138,7 +138,7 @@ If it has a logo, it's an ad. People don't share ads.
 If it's just a funny version of themselves, they share it everywhere.
 The QR on the pack already did the brand's job. The caricature just needs to be shareable.
 
-![QR Camera Experience](./visuals/qr_caricature.png)
+![QR Camera Experience](./visuals/qr_caricature.png.jpeg)
 
 ---
 
@@ -160,7 +160,7 @@ A sampler box containing **7 small individual pouches** — one of each flavor i
 - The discount QR pulls them back for a second purchase
 - One product that does acquisition and retention simultaneously
 
-![Hippo Flight Box](./visuals/hippo_flight.png)
+![Hippo Flight Box](./visuals/hippo_flight.png.jpeg)
 
 ---
 
@@ -181,7 +181,7 @@ Sent to micro-influencers (50K–500K followers) in food, college life, and nost
 Product creates a review. Mystery creates content.
 An influencer posting "I got this weird box with my own caricature in it and scratch cards" generates more organic curiosity than "here's a snack review."
 
-![Influencer PR Kit](./visuals/pr_kit.png)
+![Influencer PR Kit](./visuals/pr_kit.png.jpeg)
 
 ---
 
@@ -247,3 +247,4 @@ The product earns the share by being worth sharing.
 ---
 
 *This is a self-initiated student/portfolio project. Hippo is a brand of Parle Agro. This strategy is not affiliated with or endorsed by Parle Agro.*
+
